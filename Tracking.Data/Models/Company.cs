@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text;
+using static Tracking.Data.Models.Enums;
 
 namespace Tracking.Data.Models
 {
@@ -23,7 +24,10 @@ namespace Tracking.Data.Models
         public string Mobile { get; set; }
         public string Address { get; set; }
         public string PostalCode { get; set; }
-        public bool IsActive { get; set; }
+        /// <summary>
+        /// This property will define if the company is active or not
+        /// </summary>
+        public CompanyStatus Status { get; set; }
 
         public virtual ICollection<CompanyUnits> CompanyUnits { get; set; }
     }
