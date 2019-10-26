@@ -14,6 +14,6 @@ namespace Tracking.Data.Database
         { }
 
         public DbSet<Company> Company { get; set; }
-        public DbSet<CompanyUnits> CompanyUnits { get; set; }
+        public DbSet<CompanyUnit> CompanyUnits { get; set; }
     }
 }

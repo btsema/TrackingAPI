@@ -29,6 +29,7 @@ namespace Tracking.Data.Models
         /// </summary>
         public CompanyStatus Status { get; set; }
 
-        public virtual ICollection<CompanyUnits> CompanyUnits { get; set; }
+        public virtual ICollection<CompanyUnit> CompanyUnits { get; set; }
+        public virtual ICollection<Menu> Menus { get; set; }
     }
 }

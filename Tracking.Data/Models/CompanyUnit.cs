@@ -8,7 +8,7 @@ using static Tracking.Data.Models.Enums;
 
 namespace Tracking.Data.Models
 {
-    public class CompanyUnits
+    public class CompanyUnit
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
