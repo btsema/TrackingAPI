@@ -6,6 +6,9 @@ using System.Text;
 
 namespace Tracking.Data.Models
 {
+    /// <summary>
+    /// DB Model for company. This table will contains basic information for the company 
+    /// </summary>
     public class Company
     {
         [Key]
@@ -14,7 +17,7 @@ namespace Tracking.Data.Models
         [Required]
         public string Name { get; set; }
         public string Web { get; set; }
-        [Required] 
+        [Required]
         public string Email { get; set; }
         public string Phone { get; set; }
         public string Mobile { get; set; }
