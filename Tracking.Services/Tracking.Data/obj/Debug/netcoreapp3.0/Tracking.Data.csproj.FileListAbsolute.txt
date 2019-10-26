@@ -1,0 +1,8 @@
+C:\Users\AleksandarK\source\repos\TrackingMyFood\Tracking.Data\bin\Debug\netcoreapp3.0\Tracking.Data.deps.json
+C:\Users\AleksandarK\source\repos\TrackingMyFood\Tracking.Data\bin\Debug\netcoreapp3.0\Tracking.Data.dll
+C:\Users\AleksandarK\source\repos\TrackingMyFood\Tracking.Data\obj\Debug\netcoreapp3.0\Tracking.Data.AssemblyInfoInputs.cache
+C:\Users\AleksandarK\source\repos\TrackingMyFood\Tracking.Data\obj\Debug\netcoreapp3.0\Tracking.Data.AssemblyInfo.cs
+C:\Users\AleksandarK\source\repos\TrackingMyFood\Tracking.Data\bin\Debug\netcoreapp3.0\Tracking.Data.pdb
+C:\Users\AleksandarK\source\repos\TrackingMyFood\Tracking.Data\obj\Debug\netcoreapp3.0\Tracking.Data.dll
+C:\Users\AleksandarK\source\repos\TrackingMyFood\Tracking.Data\obj\Debug\netcoreapp3.0\Tracking.Data.pdb
+C:\Users\AleksandarK\source\repos\TrackingMyFood\Tracking.Data\obj\Debug\netcoreapp3.0\Tracking.Data.csprojAssemblyReference.cache
