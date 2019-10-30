@@ -12,5 +12,7 @@ namespace Tracking.Data.Models
 
         public enum MenuType { SeaFood = 0, Pizza = 1, Meat = 2, Combine = 3, Vegetarion = 4 }
 
+        public enum SatisfactionFromTheLocation { Terribe = 0, Bed = 1, Acceptable = 2, Good = 3, Awsome = 4 }
+
     }
 }
