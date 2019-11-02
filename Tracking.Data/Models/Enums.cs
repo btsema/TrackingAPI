@@ -14,5 +14,9 @@ namespace Tracking.Data.Models
 
         public enum SatisfactionFromTheLocation { Terribe = 0, Bed = 1, Acceptable = 2, Good = 3, Awsome = 4 }
 
+        /// <summary>
+        /// AI_PublicLocationType contains type of public object/institutions whose will be used in AI process for recommendation for next location
+        /// </summary>
+        public enum AI_PublicLocationType { EducationObject = 0, SportObject = 1, CinemaObject = 2 }
     }
 }
